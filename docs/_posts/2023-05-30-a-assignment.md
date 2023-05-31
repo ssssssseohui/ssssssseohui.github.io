@@ -1,7 +1,20 @@
 ---
-layout: post
+layout: single-github-blog
 title: assignment about Github
+excerpt: What is the Github?
+
+categories: github-blog
+tags: git
+
+toc: true
+toc_sticky: true
+toc_label: assignment
+
+sidebar:
+  nav: "docs"
 ---
+
+##과제
 
 먼저 Git이란 무엇일까
 Git에 대해 알아보자면, Git은 컴퓨터 프로그램 소스를 공유, 개발할 수 있는 분산 버전관리 시스템이다.
