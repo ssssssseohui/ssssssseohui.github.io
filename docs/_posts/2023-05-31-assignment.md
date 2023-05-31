@@ -1,6 +1,6 @@
 ---
 layout: post
-title: assignment about Github
+title: assignment
 ---
 
 먼저 Git이란 무엇일까
